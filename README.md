@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-      <h1 style="color: #570478; text-align: center;"> PLAYGROUNDS IN IRVINE </h1>
+      <h1 class="border" style="color: #570478; text-align: center;"> PLAYGROUNDS IN IRVINE </h1>
       <h2 style="color: #9e03a1;"> Content </h2>
       <a href="up.html"> 1.Playgrounds in University Park <br> </a>
       <a href="tr.html"> 2.Playgrounds in Turtle Rock <br> </a>
