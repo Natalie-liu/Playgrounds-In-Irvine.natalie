@@ -11,4 +11,8 @@ body{
 body {
   background-image: url('simple-background-backgrounds-passion-simple-1-5c9b95d2d9f93.jpg');
 }
+.border{
+  border-style: dotted;
+  border-color: #822dcc;
+}
 </style>
